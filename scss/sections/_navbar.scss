@@ -1,6 +1,13 @@
 @use "../custom" as *;
 @use "../components/mixins" as *;
 
+.widtch-35 {
+  width: 35%;
+}
+.widtch-65 {
+  width: 65%;
+}
+
 .menu {
   @include gradient;
   li {

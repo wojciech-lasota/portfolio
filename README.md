@@ -1,4 +1,5 @@
-#I use this to learn bootstrap
+#for educational purposes 
+
 
 
 Bootstrap 5, SASS

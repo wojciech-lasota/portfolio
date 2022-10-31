@@ -1,8 +1,3 @@
-#for educational purposes 
+[live preview](https://wojciech-lasota.github.io/portfolio/)
 
-
-
-Bootstrap 5, SASS
-
-
-https://wojciech-lasota.github.io/portfolio/
+<img src=/Screenshots/1.png />
